@@ -1,0 +1,26 @@
+# Node.js dependencies
+node_modules/
+dist/
+.vite/
+.cache/
+
+# Environment variables (DO NOT COMMIT API KEYS)
+.env
+.env.local
+.env.*.local
+
+# Editor & OS-specific files
+.vscode/
+.idea/
+*.log
+*.swp
+.DS_Store
+Thumbs.db
+
+# Debugging files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+env
